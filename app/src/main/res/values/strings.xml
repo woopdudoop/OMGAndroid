@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PPL</string>
+    <string name="action_settings">Settings</string>
+    <string name="page1">Push #1</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="title_activity_legs_1">Legs_1</string>
+    <string name="title_activity_push_2">Push_2</string>
+    <string name="title_activity_pull_2">Pull_2</string>
+    <string name="title_activity_legs_2">Legs_2</string>
+
+</resources>
